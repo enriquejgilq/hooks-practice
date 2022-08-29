@@ -1,0 +1,39 @@
+.container {
+    display: grid;
+    place-content: center;
+}
+
+.characters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    max-width: 1080px;
+    justify-content: center;
+    padding: auto;
+}
+
+.character--card {
+    width: 350px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    gap: 5px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.character--card--img {
+    width: 150px;
+    border-radius: 40%;
+}
+
+.character--card--details {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
