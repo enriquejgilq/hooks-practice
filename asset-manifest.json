@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/enriquejgilq.github.io/hooks-practice/static/css/main.69a40ae8.css",
-    "main.js": "/enriquejgilq.github.io/hooks-practice/static/js/main.30ccc513.js",
-    "static/js/787.f2e22480.chunk.js": "/enriquejgilq.github.io/hooks-practice/static/js/787.f2e22480.chunk.js",
-    "index.html": "/enriquejgilq.github.io/hooks-practice/index.html",
-    "main.69a40ae8.css.map": "/enriquejgilq.github.io/hooks-practice/static/css/main.69a40ae8.css.map",
-    "main.30ccc513.js.map": "/enriquejgilq.github.io/hooks-practice/static/js/main.30ccc513.js.map",
-    "787.f2e22480.chunk.js.map": "/enriquejgilq.github.io/hooks-practice/static/js/787.f2e22480.chunk.js.map"
+    "main.css": "/hooks-practice/static/css/main.69a40ae8.css",
+    "main.js": "/hooks-practice/static/js/main.e3c67215.js",
+    "static/js/787.f2e22480.chunk.js": "/hooks-practice/static/js/787.f2e22480.chunk.js",
+    "index.html": "/hooks-practice/index.html",
+    "main.69a40ae8.css.map": "/hooks-practice/static/css/main.69a40ae8.css.map",
+    "main.e3c67215.js.map": "/hooks-practice/static/js/main.e3c67215.js.map",
+    "787.f2e22480.chunk.js.map": "/hooks-practice/static/js/787.f2e22480.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69a40ae8.css",
-    "static/js/main.30ccc513.js"
+    "static/js/main.e3c67215.js"
   ]
 }
